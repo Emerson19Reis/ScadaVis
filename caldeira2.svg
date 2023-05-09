@@ -44,9 +44,9 @@
      inkscape:window-height="705"
      id="namedview5321"
      showgrid="false"
-     inkscape:zoom="0.47625"
-     inkscape:cx="344.13413"
-     inkscape:cy="136.3187"
+     inkscape:zoom="2.6940768"
+     inkscape:cx="536.23809"
+     inkscape:cy="145.19427"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -728,5 +728,30 @@ X+6PyoooATYv90flRsX+6PyoooANi/3R+VGxf7o/KiigA2L/AHR+VGxf7o/KiigBdi/3R+VGxf7o
          x="522.83466"
          y="37.401573"
          style="font-size:21.33333397px">Caldeira de Barretos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.17439079px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45435983"
+       x="679.73383"
+       y="292.92191"
+       id="text5347"
+       transform="scale(0.8875155,1.1267409)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag2&quot;,&quot;type&quot;:&quot;Live&quot;}"><tspan
+         sodipodi:role="line"
+         id="tspan5345"
+         x="679.73383"
+         y="292.92191"
+         style="stroke-width:0.45435983">%02.1f bar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:34.88130951px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.87203276"
+       x="784.03394"
+       y="219.41692"
+       id="text5339-2"
+       transform="scale(0.66517354,1.5033671)"><tspan
+         sodipodi:role="line"
+         id="tspan5337-5"
+         x="784.03394"
+         y="219.41692"
+         style="font-size:11.62710285px;stroke-width:0.87203276">Pressão da Caldeira  </tspan></text>
   </g>
 </svg>
