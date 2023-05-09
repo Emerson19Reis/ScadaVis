@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="Caldeira.svg"
@@ -29,7 +28,15 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs1483" />
+     id="defs1483">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="18.470149 : 172.10821 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="800 : 225 : 1"
+       inkscape:persp3d-origin="400 : 150 : 1"
+       id="perspective5228" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -50,22 +57,33 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1479" />
-  <image
-     y="32.742535"
-     x="13.432837"
-     id="image1487"
-     xlink:href="C:\Users\emerson.oreis\none.jpg"
-     preserveAspectRatio="none"
-     height="262.77985"
-     width="543.93658" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="684.23505"
-     y="219.96269"
+     x="239.27235"
+     y="230.03732"
      id="text5226"><tspan
        sodipodi:role="line"
        id="tspan5224"
-       x="684.23505"
-       y="219.96269">2</tspan></text>
+       x="239.27235"
+       y="230.03732">2</tspan></text>
+  <rect
+     style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+     id="rect5244"
+     width="169.58958"
+     height="156.15668"
+     x="17.630596"
+     y="178.82463" />
+  <path
+     sodipodi:type="spiral"
+     style="fill:none;fill-rule:evenodd;stroke:#000000"
+     id="path5248"
+     sodipodi:cx="99.906715"
+     sodipodi:cy="133.4888"
+     sodipodi:expansion="1"
+     sodipodi:revolution="3"
+     sodipodi:radius="33.582088"
+     sodipodi:argument="-18.206055"
+     sodipodi:t0="0"
+     d="m 99.906715,133.4888 c 1.347005,1.01025 -0.697235,2.31415 -1.679104,2.23881 -2.660804,-0.20419 -3.547306,-3.44835 -2.798507,-5.59702 1.339426,-3.84347 6.085456,-4.94932 9.514926,-3.35821 5.03289,2.33503 6.38651,8.75604 3.91791,13.43284 -3.29026,6.23344 -11.438193,7.83829 -17.350748,4.47761 -7.440348,-4.22908 -9.297559,-14.12579 -5.037311,-21.26866 5.159732,-8.65096 16.816449,-10.76113 25.186569,-5.59701 9.8639,6.08574 12.22742,19.509 6.15671,29.10448 -7.00887,11.07836 -22.202822,13.69551 -33.022387,6.71641 -12.293878,-7.93009 -15.164862,-24.89754 -7.276114,-36.9403 8.849982,-13.51016 27.592901,-16.63513 40.858211,-7.83581 14.727,9.76891 18.10609,30.28875 8.39551,44.77612" />
 </svg>
