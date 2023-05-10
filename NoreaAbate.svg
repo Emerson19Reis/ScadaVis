@@ -222,15 +222,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="162.62579"
+       x="159.60199"
        y="318.50403"
        id="text3868-3-4"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag4&quot;,&quot;type&quot;:&quot;Live&quot;}"><tspan
          sodipodi:role="line"
          id="tspan3866-8-6"
-         x="162.62579"
+         x="159.60199"
          y="318.50403"
-         style="font-size:14.11111069px;stroke-width:0.26458332">%02.1f  (%)   </tspan></text>
+         style="font-size:14.11111069px;stroke-width:0.26458332">%02.1f  Percentual   </tspan></text>
     <text
        transform="translate(0,423.00001)"
        xml:space="preserve"
