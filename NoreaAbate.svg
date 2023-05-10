@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="3343.9969"
-     inkscape:cy="1488.7401"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="2678.127"
+     inkscape:cy="1581.1951"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="705"
@@ -319,6 +319,6 @@
          id="tspan3866-0-2"
          x="832.66327"
          y="246.77037"
-         style="font-size:14.11111069px;stroke-width:0.26458332">%02.1f </tspan></text>
+         style="font-size:14.11111069px;stroke-width:0.26458332">%02.1f \% </tspan></text>
   </g>
 </svg>
