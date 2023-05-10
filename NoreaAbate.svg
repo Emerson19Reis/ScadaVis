@@ -230,7 +230,7 @@
          id="tspan3866-8-6"
          x="162.62579"
          y="318.50403"
-         style="font-size:14.11111069px;stroke-width:0.26458332">%02.1f  % </tspan></text>
+         style="font-size:14.11111069px;stroke-width:0.26458332">%02.1f  &quot;%&quot; </tspan></text>
     <text
        transform="translate(0,423.00001)"
        xml:space="preserve"
