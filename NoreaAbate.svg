@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="847.86537"
-     inkscape:cy="1525.0621"
+     inkscape:zoom="0.35"
+     inkscape:cx="-157.72109"
+     inkscape:cy="1673.9081"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="705"
@@ -160,6 +160,13 @@
        d="M 94.880678,298.24868 H 300.67823"
        id="path3795-3"
        inkscape:connector-curvature="0" />
+    <rect
+       style="display:inline;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.86048287;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect3744-0"
+       width="213.06842"
+       height="125.61369"
+       x="725.01349"
+       y="162.04434" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -223,6 +230,18 @@
          id="tspan3866-8-6"
          x="162.62579"
          y="318.50403"
-         style="font-size:14.11111069px;stroke-width:0.26458332">%02.1f </tspan></text>
+         style="font-size:14.11111069px;stroke-width:0.26458332">%02.1f  % </tspan></text>
+    <text
+       transform="translate(0,423.00001)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="777.22296"
+       y="-268.19547"
+       id="text3748-9"><tspan
+         sodipodi:role="line"
+         id="tspan3746-4"
+         x="777.22296"
+         y="-268.19547"
+         style="font-size:16.93333244px;stroke-width:0.26458332">Ácido Lático</tspan></text>
   </g>
 </svg>
