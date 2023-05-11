@@ -30,7 +30,7 @@
      inkscape:cx="2207.2456"
      inkscape:cy="1444.0605"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="705"
@@ -59,8 +59,8 @@
      id="layer2"
      inkscape:label="Tela de Fundo">
     <image
-       y="72.663788"
-       x="9.5092869"
+       y="69.356499"
+       x="9.509304"
        id="image40"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABgoAAALQCAYAAABBvSueAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAL
 EwAACxMBAJqcGAAD1DBJREFUeJzs3Qdc1WX7x/Fs2NR6yoZWZmWlpVaOMv/lk8rGLRvBbWZp2jDT
@@ -4468,8 +4468,8 @@ ilBQUzU0dBNNYfqnErywIZn+KYN6JIW1aEY6jlooA7cvjcqxNFZCg1gVw1jVRuAqOSzFcshrI79e
 2aOtZ5mz954OnRM/9w/u9nqQYowxxhhjLEj9BtBbcdr1iteyAAAAAElFTkSuQmCC
 "
        preserveAspectRatio="none"
-       height="633.82361"
-       width="1100.8477" />
+       height="587.52155"
+       width="1027.3927" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4478,7 +4478,7 @@ ilBQUzU0dBNNYfqnErywIZn+KYN6JIW1aEY6jlooA7cvjcqxNFZCg1gVw1jVRuAqOSzFcshrI79e
      style="display:inline">
     <image
        y="69.356499"
-       x="1048.4775"
+       x="975.02258"
        id="image70"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAA3GSURB
@@ -4554,7 +4554,7 @@ AElFTkSuQmCC
        id="rect86"
        width="61.879421"
        height="67.667183"
-       x="1048.4775"
+       x="975.02258"
        y="69.356499"
        inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;height&quot;:400,&quot;istag&quot;:1,&quot;src&quot;:&quot;Menu&quot;,&quot;type&quot;:&quot;_self&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}" />
   </g>
