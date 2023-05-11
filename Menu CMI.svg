@@ -30,7 +30,7 @@
      inkscape:cx="2207.2456"
      inkscape:cy="1444.0605"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="705"
@@ -57,11 +57,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Tela de Fundo"
-     sodipodi:insensitive="true">
+     inkscape:label="Tela de Fundo">
     <image
-       y="-421.15475"
-       x="-2.0662344"
+       y="72.663788"
+       x="9.5092869"
        id="image40"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABgoAAALQCAYAAABBvSueAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAL
 EwAACxMBAJqcGAAD1DBJREFUeJzs3Qdc1WX7x/Fs2NR6yoZWZmWlpVaOMv/lk8rGLRvBbWZp2jDT
@@ -4469,9 +4468,8 @@ ilBQUzU0dBNNYfqnErywIZn+KYN6JIW1aEY6jlooA7cvjcqxNFZCg1gVw1jVRuAqOSzFcshrI79e
 2aOtZ5mz954OnRM/9w/u9nqQYowxxhhjLEj9BtBbcdr1iteyAAAAAElFTkSuQmCC
 "
        preserveAspectRatio="none"
-       height="721.17859"
-       width="1284.7158"
-       transform="translate(0,423.00001)" />
+       height="633.82361"
+       width="1100.8477" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4479,8 +4477,8 @@ ilBQUzU0dBNNYfqnErywIZn+KYN6JIW1aEY6jlooA7cvjcqxNFZCg1gVw1jVRuAqOSzFcshrI79e
      inkscape:label="Botão"
      style="display:inline">
     <image
-       y="18.093475"
-       x="1160.9254"
+       y="69.356499"
+       x="1048.4775"
        id="image70"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAA3GSURB
@@ -4552,12 +4550,12 @@ AElFTkSuQmCC
        height="67.667183"
        width="61.879421" />
     <rect
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;opacity:0.3"
+       style="opacity:0.3;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect86"
        width="61.879421"
        height="67.667183"
-       x="1160.9254"
-       y="18.093475"
+       x="1048.4775"
+       y="69.356499"
        inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;height&quot;:400,&quot;istag&quot;:1,&quot;src&quot;:&quot;Menu&quot;,&quot;type&quot;:&quot;_self&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}" />
   </g>
   <g
