@@ -1,1 +1,92 @@
-<button style="background-color: gray; border: none; padding: 10px 20px; border-radius: 5px;">Desktop CMI</button>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Menu Lateral Dinâmico</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			font-family: Arial, sans-serif;
+		}
+		#header {
+			background-color: #E84752;
+			color: #fff;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 50px;
+			font-family: Montserrat, sans-serif;
+			font-size: 20px;
+		}
+		#background-image {
+			background-image: url("https://i.imgur.com/Qi7hjQ6.png");
+			background-repeat: no-repeat;
+			background-size: cover;
+			position: absolute;
+			top: 50px;
+			left: 0;
+			width: 100%;
+			height: calc(100% - 50px);
+			z-index: -1;
+		}
+		#menu {
+			position: fixed;
+			top: 0;
+			right: 0;
+			height: 100%;
+			width: 150px;
+			background-color: #E84752;
+			color: #fff;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			padding-top: 50px;
+			box-sizing: border-box;
+		}
+		#menu a {
+			display: block;
+			width: 100%;
+			padding: 10px 0;
+			text-align: center;
+			color: #fff;
+			text-decoration: none;
+			border-bottom: 1px solid #fff;
+			box-sizing: border-box;
+		}
+		#menu a:hover {
+			background-color: #555;
+		}
+		#logo {
+			position: absolute;
+			top: 10px;
+			left: 10px;
+			height: 40px;
+			width: 100px;
+			background-image: url("https://minervafoods.com/wp-content/plugins/minerva-megamenu/assets/images/logo.webp");
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: center;
+			cursor: pointer;
+		}
+		#content {
+			margin-right: 150px;
+			padding: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div id="header">
+		CMI - Centro de Monitoramento Industrial
+	</div>
+	<div id="background-image"></div>
+	<div id="menu">
+		<div id="logo"></div>
+		<a href="#">Mobile</a>
+		<a href="#">Desktop CMI</a>
+		<a href="#">Qualidade</a>
+	</div>
+	<div id="content">
+		<!-- Conteúdo da página -->
+	</div>
+</body>
+</html>
