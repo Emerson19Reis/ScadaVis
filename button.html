@@ -7,7 +7,10 @@
 			margin: 0;
 			padding: 0;
 			font-family: Arial, sans-serif;
+            background-repeat: no-repeat
 		}
+
+
 		#header {
 			background-color: #E84752;
 			color: #fff;
@@ -73,33 +76,106 @@
 			padding: 20px;
 		}
 
-        #menu a#brasil {
-    background-image: url("https://www.minervafoods.com/wp-content/uploads/2022/12/flag-brasil.png");
-    background-repeat: no-repeat;
-    background-position: left;
-    background-size: 30px auto;
-    padding-left: 10px;
-    margin-left: 0px;
-}
+        .dropdown {
+          position: relative;
+          display: inline-block;
+          margin-top: 10px; /* Ajusta a posição vertical do dropdown */
+        }
 
+        .dropbtn {
+          background-color: #E84752;
+          color: white;
+          padding: 10px;
+          font-size: 16px;
+          border: none;
+          cursor: pointer;
+        }
+
+        .dropdown-content {
+          display: none;
+          position: absolute;
+          background-color: #E84752;
+          min-width: 150px;
+          z-index: 1;
+          padding: 12px 0; /* Adiciona um espaçamento interno no dropdown */
+          left: 50%; /* Centraliza horizontalmente o dropdown */
+          transform: translateX(-50%); /* Centraliza horizontalmente o dropdown */
+        }
+
+        .dropdown-content a {
+          color: white;
+          padding: 10px 16px;
+          text-decoration: none;
+          display: block;
+          text-align: center; /* Centraliza o texto nos botões do dropdown */
+        }
+
+        .dropdown-content a:hover {
+          background-color: #555;
+        }
+
+        .dropdown:hover .dropdown-content {
+          display: block;
+        }
+        #menu .dropdown button.dropbtn:hover {
+  background-color: #555;
+  width: 150px;
+}
 
 	</style>
 </head>
-<body>
+<body background="https://i.imgur.com/F6MayJt.jpg">
 	<div id="header">
 		CMI - Centro de Monitoramento Industrial
 	</div>
 	<div id="background-image"></div>
 	<div id="menu">
 		<div id="logo"></div>
-		<a href="#">Argentina</a>
-		<a href="#" id="brasil">Brasil</a>
-		<a href="#">Colombia</a>
-        <a href="#">Paraguai</a>
-        <a href="#">Uruguai</a>
+		<div class="dropdown">
+			<button class="dropbtn">Argentina</button>
+			<div class="dropdown-content">
+				<a href="#">Mobile</a>
+				<a href="#">CMI Desktop</a>
+				<a href="#">Qualidade</a>
+			</div>
+		</div>
+		<div class="dropdown">
+			<button class="dropbtn">Brasil</button>
+			<div class="dropdown-content">
+				<a href="#">Mobile</a>
+				<a href="#">CMI Desktop</a>
+				<a href="#">Qualidade</a>
+			</div>
+		</div>
+		<div class="dropdown">
+			<button class="dropbtn">Colombia</button>
+			<div class="dropdown-content">
+				<a href="#">Mobile</a>
+				<a href="#">CMI Desktop</a>
+				<a href="#">Qualidade</a>
+			</div>
+		</div>
+		<div class="dropdown">
+			<button class="dropbtn">Paraguai</button>
+			<div class="dropdown-content">
+				<a href="#">Mobile</a>
+				<a href="#">CMI Desktop</a>
+				<a href="#">Qualidade</a>
+			</div>
+		</div>
+		<div class="dropdown">
+			<button class="dropbtn">Uruguai</button>
+			<div class="dropdown-content">
+				<a href="#">Mobile</a>
+				<a href="#">CMI Desktop</a>
+				<a href="#">Qualidade</a>
+			</div>
+		</div>
 	</div>
 	<div id="content">
 		<!-- Conteúdo da página -->
 	</div>
 </body>
+
+
 </html>
