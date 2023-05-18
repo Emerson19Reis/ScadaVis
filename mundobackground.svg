@@ -44,9 +44,9 @@
      inkscape:window-height="705"
      id="namedview1341"
      showgrid="false"
-     inkscape:zoom="0.56911454"
-     inkscape:cx="318.60087"
-     inkscape:cy="287.07595"
+     inkscape:zoom="0.8048495"
+     inkscape:cx="367.95288"
+     inkscape:cy="275.30943"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -54,14 +54,15 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="tela de fundo">
+     inkscape:label="tela de fundo"
+     style="display:inline">
     <rect
-       style="opacity:1;fill:#ececec;fill-opacity:0.14509805;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       style="opacity:1;fill:#00ffff;fill-opacity:0.14509804;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect1979"
        width="1180.7816"
        height="715.146"
-       x="-75.555969"
-       y="-7.0122356" />
+       x="-95.435486"
+       y="-21.921831" />
   </g>
   <g
      inkscape:groupmode="layer"
