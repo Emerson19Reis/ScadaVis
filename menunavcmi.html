@@ -7,8 +7,11 @@
 			margin: 0;
 			padding: 0;
 			font-family: Arial, sans-serif;
-            background-repeat: no-repeat
-			background-size: 300px 200px; 
+            background-repeat: no-repeat;
+			background-size: 980px 520px; 
+			margin: 100;
+            padding: 100;
+			background-position: center;
 		}
 
 
@@ -23,13 +26,13 @@
 			font-size: 20px;
 		}
 		#background-image {
-			background-image: url("#");
+			background-image: url("https://i.imgur.com/YPyEHn9.png");
 			background-repeat: no-repeat;
-			background-size: cover;
+			background-size: cover;	
 			position: absolute;
 			top: 50px;
 			left: 0;
-			width: 90%;
+			width: 80%;
 			height: calc(100% - 50px);
 			z-index: -1;
 		}
@@ -90,6 +93,7 @@
           font-size: 16px;
           border: none;
           cursor: pointer;
+		  
         }
 
         .dropdown-content {
@@ -122,18 +126,38 @@
   background-color: #555;
   width: 150px;
 }
-
+.flag-icon-AR {
+  width: 24px; /* Ajuste o tamanho da imagem conforme necessário */
+  height: 16px;
+  margin-right: 8px; /* Espaçamento entre a imagem e o texto */
+}
+.flag-icon-BR {
+  width: 24px; /* Ajuste o tamanho da imagem conforme necessário */
+  height: 16px;
+  margin-right: 40px ; /* Espaçamento entre a imagem e o texto */
+}
+.texto-botao {
+  font-size: 16px;
+  margin-left: 5px;
+  /* Outros estilos de texto, se necessário */
+}
 	</style>
 </head>
-<body background="https://i.imgur.com/YPyEHn9.png">
+<body>
 	<div id="header">
 		CMI - Centro de Monitoramento Industrial
 	</div>
-	<div id="background-image"></div>
+	<div id="background-image"> 
+
+	
+	</div>
 	<div id="menu">
 		<div id="logo"></div>
 		<div class="dropdown">
-			<button class="dropbtn">Argentina</button>
+			<button class="dropbtn">
+				<img src="https://www.minervafoods.com/wp-content/uploads/2022/12/flag-argentina.png" alt="Bandeira da Argentina" class="flag-icon-AR">
+				<span class="texto-botao">Argentina</span>
+			</button>
 			<div class="dropdown-content">
 				<a href="#">Mobile</a>
 				<a href="#">CMI Desktop</a>
@@ -141,7 +165,10 @@
 			</div>
 		</div>
 		<div class="dropdown">
-			<button class="dropbtn">Brasil</button>
+			<button class="dropbtn">
+				<img src="https://www.minervafoods.com/wp-content/uploads/2022/12/flag-brasil.png" alt="Bandeira da Brasil" class="flag-icon-AR	">
+				<span class="texto-boto">Brasil &nbsp &nbsp &nbsp</span>
+				</button>
 			<div class="dropdown-content">
 				<a href="#">Mobile</a>
 				<a href="#">CMI Desktop</a>
@@ -149,7 +176,12 @@
 			</div>
 		</div>
 		<div class="dropdown">
-			<button class="dropbtn">Colombia</button>
+			<button class="dropbtn">
+				
+				<img src="https://www.minervafoods.com/wp-content/uploads/2022/12/flag-colombia.png" alt="Bandeira da Colombia" class="flag-icon-AR	">
+				<span class="texto-boto">Colombia </span>
+
+				</button>
 			<div class="dropdown-content">
 				<a href="#">Mobile</a>
 				<a href="#">CMI Desktop</a>
@@ -157,7 +189,12 @@
 			</div>
 		</div>
 		<div class="dropdown">
-			<button class="dropbtn">Paraguai</button>
+			<button class="dropbtn">
+
+				<img src="https://www.minervafoods.com/wp-content/uploads/2022/12/flag-paraguai.png" alt="Bandeira da Colombia" class="flag-icon-AR	">
+				<span class="texto-boto">Paraguai </span>
+
+			</button>
 			<div class="dropdown-content">
 				<a href="#">Mobile</a>
 				<a href="#">CMI Desktop</a>
@@ -165,7 +202,12 @@
 			</div>
 		</div>
 		<div class="dropdown">
-			<button class="dropbtn">Uruguai</button>
+			<button class="dropbtn">
+				<img src="https://www.minervafoods.com/wp-content/uploads/2022/12/flag-uruguai.png" alt="Bandeira da Colombia" class="flag-icon-AR	">
+				<span class="texto-boto">Uruguai &nbsp </span>
+
+
+			</button>
 			<div class="dropdown-content">
 				<a href="#">Mobile</a>
 				<a href="#">CMI Desktop</a>
