@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="2935.7063"
+     inkscape:cx="2279.1071"
      inkscape:cy="1875.729"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -323,7 +323,7 @@
        x="411.4675"
        y="204.64719"
        id="text3868-6"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag5&quot;,&quot;type&quot;:&quot;Live&quot;},{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;1=ON&quot;,&quot;0=OFF&quot;],&quot;tag&quot;:&quot;tag5&quot;}"><tspan
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag5&quot;,&quot;type&quot;:&quot;Live&quot;},{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=OFF&quot;,&quot;1=ON&quot;],&quot;tag&quot;:&quot;tag5&quot;}"><tspan
          sodipodi:role="line"
          id="tspan3866-2"
          x="411.4675"
