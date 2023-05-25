@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="2721.5932"
-     inkscape:cy="996.29316"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="2480.5088"
+     inkscape:cy="1971.515"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="745"
@@ -65,10 +65,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="NOREA">
+     inkscape:label="NOREA"
+     style="display:inline">
     <image
-       transform="translate(0,423.00001)"
-       style=""
        y="-431.34833"
        x="0.88118923"
        id="image4526"
@@ -48935,6 +48934,18 @@ MAAAAAAAAAAAAAAAAAAAhAjAAAAAAAAAAAAAAAAAAACQsR3ytQIfk/GUBQAAAABJRU5ErkJggg==
 "
        preserveAspectRatio="none"
        height="725.44727"
-       width="1281.1313" />
+       width="1281.1313"
+       transform="translate(0,423.00001)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="668.17377"
+       y="55.033405"
+       id="text4535"><tspan
+         sodipodi:role="line"
+         id="tspan4533"
+         x="668.17377"
+         y="55.033405"
+         style="font-size:16.93333244px;stroke-width:0.26458332">Norea de abate</tspan></text>
   </g>
 </svg>
