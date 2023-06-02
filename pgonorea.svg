@@ -382,18 +382,6 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="627.42126"
-       y="119.12093"
-       id="text3868-0"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag6&quot;,&quot;type&quot;:&quot;Live&quot;},{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;5=OFF&quot;,&quot;10=ON&quot;],&quot;tag&quot;:&quot;tag6&quot;}"><tspan
-         sodipodi:role="line"
-         x="627.42126"
-         y="119.12093"
-         style="font-size:14.11111069px;stroke-width:0.26458332"
-         id="tspan1275">%02.1f </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="626.35223"
        y="146.91696"
        id="text3868-5-4"
@@ -534,5 +522,17 @@
          x="1268.2731"
          y="171.85057"
          style="stroke-width:0.32786062">%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="631.69757"
+       y="122.32816"
+       id="text3868-6-0"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag6&quot;,&quot;type&quot;:&quot;Live&quot;},{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=OFF&quot;,&quot;1=ON&quot;],&quot;tag&quot;:&quot;tag6&quot;}"><tspan
+         sodipodi:role="line"
+         id="tspan3866-2-9"
+         x="631.69757"
+         y="122.32816"
+         style="font-size:14.11111069px;stroke-width:0.26458332">%02.1f </tspan></text>
   </g>
 </svg>
