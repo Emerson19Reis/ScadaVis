@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.69999999"
-     inkscape:cx="2563.8615"
-     inkscape:cy="2213.6748"
+     inkscape:cx="2429.8113"
+     inkscape:cy="2584.1421"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="745"
@@ -522,17 +522,22 @@
          x="1268.2731"
          y="171.85057"
          style="stroke-width:0.32786062">%</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="deusmeajuda">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="627.33209"
-       y="121.52192"
+       x="625.82019"
+       y="121.14394"
        id="text1299"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag11&quot;,&quot;type&quot;:&quot;Good&quot;},{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=OFF&quot;,&quot;1=ON&quot;],&quot;tag&quot;:&quot;tag11&quot;}"><tspan
          sodipodi:role="line"
          id="tspan1297"
-         x="627.33209"
-         y="121.52192"
-         style="stroke-width:0.26458332;font-size:14.11111111px">%05.1f</tspan></text>
+         x="625.82019"
+         y="121.14394"
+         style="font-size:14.11111069px;stroke-width:0.26458332">%03.1f</tspan></text>
   </g>
 </svg>
