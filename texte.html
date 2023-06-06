@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exemplo de Carregamento Dinâmico de Imagens</title>
+	<script>
+		window.addEventListener('DOMContentLoaded', function() {
+			var imgElement = document.getElementById('snapshot');
+			var imageUrl = 'http://10.55.22.39/snapshot.jpg'; // URL inicial da imagem da câmera
+
+			function updateImage() {
+				imgElement.src = imageUrl + '?timestamp=' + new Date().getTime();
+			}
+
+			// Define um intervalo para atualizar a imagem a cada 2 segundos
+			setInterval(updateImage, 2000);
+		});
+	</script>
+</head>
+<body>
+	<img id="snapshot" src="" width="640" height="480">
+</body>
+</html>
